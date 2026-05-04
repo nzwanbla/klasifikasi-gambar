@@ -53,9 +53,9 @@ Setelah training awal dengan base model ter-freeze, dilakukan fine-tuning dengan
 ## Hasil Training
 | Metrik | Nilai |
 |--------|-------|
-| Akurasi Training | ≥ 95% |
-| Akurasi Validasi | ≥ 93% |
-| Akurasi Test | ≥ 93% |
+| Akurasi Training | 92,29% |
+| Akurasi Validasi | 91,69% |
+| Akurasi Test | 91,28% |
 
 ## Format Model yang Disimpan
 | Format | Lokasi | Kegunaan |
